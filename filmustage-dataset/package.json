@@ -1,0 +1,23 @@
+{
+  "name": "filmustage-dataset",
+  "main": "./lib/filmustage-dataset",
+  "version": "0.0.1",
+  "description": "Annotation Tool for Filmustage project",
+  "activationCommands": {
+    "atom-workspace": [
+      "user:filmustage-location",
+      "user:filmustage-location_add",
+      "user:filmustage-prop",
+      "user:filmustage-actor",
+      "user:filmustage-place",
+      "user:filmustage-time",
+      "user:filmustage-wtf",
+      "user:filmustage-actor_add"
+    ]
+  },
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}

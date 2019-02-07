@@ -1,0 +1,12 @@
+{
+  "atom-text-editor": {
+    "f1": "user:filmustage-place",
+    "f2": "user:filmustage-location",
+    "f3": "user:filmustage-time",
+    "f4": "user:filmustage-prop",
+    "f5": "user:filmustage-actor",
+    "f6": "user:filmustage-location_add",
+    "f7": "user:filmustage-actor_add",
+    "shift-f1": "user:filmustage-wtf"
+  }
+}
