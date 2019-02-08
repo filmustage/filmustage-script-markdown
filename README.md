@@ -2,7 +2,7 @@
 https://www.notion.so/filmustage/Datasets-Guidelines-5445b5559c8948d59e30b44b531f0dc4
 ## 1. Install package
 
-Copy `filmustage-dataset` folder from GitHub to Atom package folder in (mac):
+Copy `atom_markdown_package` folder from GitHub to Atom package folder in (mac):
 
     ~/.atom/packages
 
@@ -26,7 +26,7 @@ Select text and press:
 For change default hotkeys open file:
 
 ```JSON
-~/.atom/packages/filmustage-dataset/keymaps/filmustage-dataset.json
+~/.atom/packages/atom_markdown_package/keymaps/filmustage-dataset.json
 
 {
   "atom-text-editor": {
