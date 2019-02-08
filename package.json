@@ -1,7 +1,7 @@
 {
-  "name": "atom_markdown_package",
-  "main": "./lib/atom_markdown_package",
-  "version": "0.4.0",
+  "name": "filmustage_script_markdown",
+  "main": "./lib/filmustage_script_markdown",
+  "version": "0.0.3",
   "description": "Annotation Tool for Filmustage project",
   "activationCommands": {
     "atom-workspace": [
@@ -15,7 +15,7 @@
       "user:filmustage-actor_add"
     ]
   },
-  "repository": "https://github.com/filmustage/atom_markdown_package",
+  "repository": "https://github.com/filmustage/filmustage_script_markdown",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"

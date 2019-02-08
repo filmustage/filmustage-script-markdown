@@ -7,6 +7,6 @@
     "f5": "user:filmustage-actor",
     "f6": "user:filmustage-location_add",
     "f7": "user:filmustage-actor_add",
-    "shift-f1": "user:filmustage-wtf"
+    "f8": "user:filmustage-wtf"
   }
 }

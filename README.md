@@ -1,4 +1,4 @@
-# atom_markdown_package
+# Filmustage script markdown
 https://www.notion.so/filmustage/Datasets-Guidelines-5445b5559c8948d59e30b44b531f0dc4
 ## 1. Install package
 
@@ -26,7 +26,7 @@ Select text and press:
 For change default hotkeys open file:
 
 ```JSON
-~/.atom/packages/atom_markdown_package/keymaps/filmustage-dataset.json
+~/.atom/packages/filmustage_script_markdown/keymaps/filmustage-markdown.json
 
 {
   "atom-text-editor": {
