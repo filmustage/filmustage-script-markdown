@@ -1,7 +1,7 @@
 {
   "name": "atom_markdown_package",
   "main": "./lib/atom_markdown_package",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Annotation Tool for Filmustage project",
   "activationCommands": {
     "atom-workspace": [
