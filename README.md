@@ -4,6 +4,7 @@ Team datasets guidelines in [Notion](https://www.notion.so/filmustage/Datasets-G
 
 ## 1. Install package
 Install `filmustage_script_markdown` package from Atom page:
+
 [https://atom.io/packages/filmustage_script_markdown](https://atom.io/packages/filmustage_script_markdown).
 
 ## 2. Use tags
