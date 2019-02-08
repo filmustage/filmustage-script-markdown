@@ -1,10 +1,11 @@
 # Filmustage script markdown
-https://www.notion.so/filmustage/Datasets-Guidelines-5445b5559c8948d59e30b44b531f0dc4
+
+Team datasets guidelines in [Notion](https://www.notion.so/filmustage/Datasets-Guidelines-5445b5559c8948d59e30b44b531f0dc4).
+
 ## 1. Install package
+Install `filmustage_script_markdown` package from Atom page:
 
-Copy `atom_markdown_package` folder from GitHub to Atom package folder in (mac):
-
-    ~/.atom/packages
+    https://atom.io/packages/filmustage_script_markdown
 
 ## 2. Use tags
 
