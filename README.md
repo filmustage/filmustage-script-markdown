@@ -19,7 +19,7 @@ Select text and press:
 - **F5** for `<actor></actor>`
 - **F6** for `<location_add></location_add>`
 - **F7** for `<actor_add></location>`
-- **Shift+F1** for `<wtf></wtf>`
+- **F8** for `<wtf></wtf>`
 
 ## 3. Change Hotkeys
 
@@ -37,7 +37,7 @@ For change default hotkeys open file:
     "f5": "user:filmustage-actor",
     "f6": "user:filmustage-location_add",
     "f7": "user:filmustage-actor_add",
-    "shift-f1": "user:filmustage-wtf"
+    "f8": "user:filmustage-wtf"
   }
 }
 ```
