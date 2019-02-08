@@ -11,7 +11,7 @@ Once it found, click Install button to install package.
 
 Install from the site:
 
-Install `filmustage_script_markdown` from Atom package page:
+Install `filmustage_script_markdown` from Atom package page:<br>
 [https://atom.io/packages/filmustage_script_markdown](https://atom.io/packages/filmustage_script_markdown)
 
 ## 2. Use tags
