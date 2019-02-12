@@ -27,7 +27,9 @@ Select text and press:
 - **F5** for `<actor></actor>`
 - **F6** for `<location_add></location_add>`
 - **F7** for `<actor_add></location>`
-- **F8** for `<wtf></wtf>`
+- **F8** for `<extras></extras>`
+- **F9** for `<wtf></wtf>`
+
 
 If you want to delete or change tags, `<>select text with tags</>` and press:
 - **ALT+F1** for `delete tags around`
@@ -49,7 +51,8 @@ For change default hotkeys open file:
     "f5": "user:filmustage-actor",
     "f6": "user:filmustage-location_add",
     "f7": "user:filmustage-actor_add",
-    "f8": "user:filmustage-wtf",
+    "f8": "user:filmustage-extras",
+    "f9": "user:filmustage-wtf",
     "alt-f1": "user:filmustage-delete_tag"
   }
 }

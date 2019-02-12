@@ -1,7 +1,7 @@
 {
   "name": "filmustage_script_markdown",
   "main": "./lib/filmustage_script_markdown",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Markdown package for Filmustage project",
   "activationCommands": {
     "atom-workspace": [
@@ -9,6 +9,7 @@
       "user:filmustage-location_add",
       "user:filmustage-prop",
       "user:filmustage-actor",
+      "user:filmustage-extras",
       "user:filmustage-place",
       "user:filmustage-time",
       "user:filmustage-wtf",
