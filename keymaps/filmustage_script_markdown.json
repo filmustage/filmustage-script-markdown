@@ -8,7 +8,7 @@
     "f6": "user:filmustage-location_add",
     "f7": "user:filmustage-actor_add",
     "f8": "user:filmustage-extras",
-    "f9": "user:filmustage-wtf",
+    "f9": "user:filmustage-animal",
     "alt-f1": "user:filmustage-delete_tag"
   }
 }

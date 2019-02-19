@@ -28,14 +28,24 @@ Select text and press:
 - **F6** for `<location_add></location_add>`
 - **F7** for `<actor_add></location>`
 - **F8** for `<extras></extras>`
-- **F9** for `<wtf></wtf>`
+- **F9** for `<animal></animal>`
 
 
 If you want to delete or change tags, `<>select text with tags</>` and press:
 - **ALT+F1** for `delete tags around`
 - Any **hotkeys** from top for `replace tags around`
 
-## 3. Change Hotkeys
+## 3. Extra features
+
+- If you mark selected text with wrong tag, you can simple change it by pressing another hotkeys.
+- If you mark selected text with articles (a, an, the), spaces, dots, commas, etc, they automatically pushed out of tags.
+
+![](img/samples_01.gif)
+- If you need to change multiple tags or remove they, just select text with tags and press hotkeys.
+
+![](img/samples_02.gif)
+
+## 4. Change Hotkeys
 
 For change default hotkeys open file:
 
@@ -52,7 +62,7 @@ For change default hotkeys open file:
     "f6": "user:filmustage-location_add",
     "f7": "user:filmustage-actor_add",
     "f8": "user:filmustage-extras",
-    "f9": "user:filmustage-wtf",
+    "f9": "user:filmustage-animal",
     "alt-f1": "user:filmustage-delete_tag"
   }
 }
