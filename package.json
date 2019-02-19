@@ -1,7 +1,7 @@
 {
   "name": "filmustage_script_markdown",
   "main": "./lib/filmustage_script_markdown",
-  "version": "0.1.5",
+  "version": "0.1.4",
   "description": "Markdown package for Filmustage project",
   "activationCommands": {
     "atom-workspace": [
