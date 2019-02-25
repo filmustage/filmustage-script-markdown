@@ -67,3 +67,6 @@ For change default hotkeys open file:
   }
 }
 ```
+
+## Tags colors
+Costum markdown tags colors based on [atom-color-the-tag-name](https://github.com/jzmstrjp/atom-color-the-tag-name) plugin.
