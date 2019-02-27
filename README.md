@@ -4,8 +4,8 @@ Team datasets guidelines in [Notion](https://www.notion.so/filmustage/Datasets-G
 
 ## 1. Install package
 Install from the app:
-- In Atom, open Preferences (Settings on Windows)
-- Go to Install section
+- In Atom, open Preferences (Settings on Windows).
+- Go to Install section.
 - Search for `filmustage_script_markdown` package.<br>
 Once it found, click Install button to install package.
 
@@ -20,19 +20,21 @@ After you've done that you should be able to use the `hotkeys` for adding tags.
 
 Select text and press:
 
-- **F1** for `<place></place>`
-- **F2** for `<location></location>`
-- **F3** for `<time></time>`
-- **F4** for `<prop></prop>`
-- **F5** for `<actor></actor>`
-- **F6** for `<location_add></location_add>`
-- **F7** for `<actor_add></location>`
-- **F8** for `<extras></extras>`
-- **F9** for `<animal></animal>`
-
+Tag | Key | Default color
+------- | ------ | ------
+`<place></place>` | <kbd>F1</kbd> |  <span style="color:#d23e24">#d23e24</span>
+`<location></location>` | <kbd>F2</kbd> |  <span style="color:#8544fb">#8544fb</span>
+`<time></time>` | <kbd>F3</kbd> |  <span style="color:#ff40ff">#ff40ff</span>
+`<prop></prop>` | <kbd>F4</kbd> |  <span style="color:#0ea49e">#0ea49e</span>
+`<actor></actor>` | <kbd>F5</kbd> |  <span style="color:#dfdc17">#dfdc17</span>
+`<location_add></location_add>` | <kbd>F6</kbd> |  <span style="color:#0096ff">#0096ff</span>
+`<actor_add></location>` | <kbd>F7</kbd> |  <span style="color:#f6f4ac">#f6f4ac</span>
+`<extras></extras>` | <kbd>F8</kbd> |  <span style="color:#ff9300">#ff9300</span>
+`<animal></animal>` | <kbd>F9</kbd> |  <span style="color:#930b81">#930b81</span>
+`Delete tags around` | <kbd>ALT</kbd> + <kbd>F1</kbd> |
 
 If you want to delete or change tags, `<>select text with tags</>` and press:
-- **ALT+F1** for `delete tags around`
+- <kbd>ALT</kbd> + <kbd>F1</kbd> for `delete tags around`
 - Any **hotkeys** from top for `replace tags around`
 
 ## 3. Extra features
@@ -45,28 +47,29 @@ If you want to delete or change tags, `<>select text with tags</>` and press:
 
 ![](img/samples_02.gif)
 
-## 4. Change Hotkeys
+## 4. Settings
+Open `Atom Settings`, go to `Packages` in the left hand sidebar, and press `Settings` on `filmustage_script_markdown` to open the list of settings available for the Filmustage package.
 
-For change default hotkeys open file:
+- You can disable color tags highlights.
+- You can change default tag action for hotkey and color of highlight.
+- In bottom of settings section you can find `JSON` code for Atom [touchbar](https://atom.io/packages/touchbar) package.
 
-```JSON
-~/.atom/packages/filmustage_script_markdown/keymaps/filmustage_script_markdown.json
+## 5. Change Hotkeys
 
-{
-  "atom-text-editor": {
-    "f1": "user:filmustage-place",
-    "f2": "user:filmustage-location",
-    "f3": "user:filmustage-time",
-    "f4": "user:filmustage-prop",
-    "f5": "user:filmustage-actor",
-    "f6": "user:filmustage-location_add",
-    "f7": "user:filmustage-actor_add",
-    "f8": "user:filmustage-extras",
-    "f9": "user:filmustage-animal",
-    "alt-f1": "user:filmustage-delete_tag"
-  }
-}
+You can override these keybindings by copying and pasting this code into your `keymap.cson` file in `Preferences > Keybindings` and modifying it:
+```CSON
+  'atom-text-editor':
+    'f1': 'filmustage:tag-f1'
+    'f2': 'filmustage:tag-f2'
+    'f3': 'filmustage:tag-f3'
+    'f4': 'filmustage:tag-f4'
+    'f5': 'filmustage:tag-f5'
+    'f6': 'filmustage:tag-f6'
+    'f7': 'filmustage:tag-f7'
+    'f8': 'filmustage:tag-f8'
+    'f9': 'filmustage:tag-f9'   
+    'alt-f1': 'filmustage:tag-f10'
 ```
 
 ## Tags colors
-Costum markdown tags colors based on [atom-color-the-tag-name](https://github.com/jzmstrjp/atom-color-the-tag-name) plugin.
+Costum markdown tags colors based on [atom-color-the-tag-name](https://github.com/jzmstrjp/atom-color-the-tag-name) package.

@@ -1,14 +1,14 @@
 {
   "atom-text-editor": {
-    "f1": "user:filmustage-place",
-    "f2": "user:filmustage-location",
-    "f3": "user:filmustage-time",
-    "f4": "user:filmustage-prop",
-    "f5": "user:filmustage-actor",
-    "f6": "user:filmustage-location_add",
-    "f7": "user:filmustage-actor_add",
-    "f8": "user:filmustage-extras",
-    "f9": "user:filmustage-animal",
-    "alt-f1": "user:filmustage-delete_tag"
+    "f1": "filmustage:tag-f1",
+    "f2": "filmustage:tag-f2",
+    "f3": "filmustage:tag-f3",
+    "f4": "filmustage:tag-f4",
+    "f5": "filmustage:tag-f5",
+    "f6": "filmustage:tag-f6",
+    "f7": "filmustage:tag-f7",
+    "f8": "filmustage:tag-f8",
+    "f9": "filmustage:tag-f9",
+    "alt-f1": "filmustage:tag-f10"
   }
 }
