@@ -91,30 +91,30 @@ module.exports = {
     order: 11
 
   f6Tag:
-    title: 'F7 config'
-    description: 'Default tag and color for `F7`'
+    title: 'F6 config'
+    description: 'Default tag and color for `F6`'
     type: 'string'
     default: 'actor-add'
-    order: 14
+    order: 12
     enum: Tags
   f6Color:
     title: ' '
     type: 'color'
     default: '#f6f4ac'
-    order: 15
+    order: 13
 
   f7Tag:
-    title: 'F6 config'
-    description: 'Default tag and color for `F6`'
+    title: 'F7 config'
+    description: 'Default tag and color for `F7`'
     type: 'string'
     default: 'location-add'
-    order: 12
+    order: 14
     enum: Tags
   f7Color:
     title: ' '
     type: 'color'
     default: '#0096ff'
-    order: 13
+    order: 15
 
   f8Tag:
     title: 'F8 config'
