@@ -4,8 +4,8 @@ window.Tags =  [
         {value: 'time', description: 'Time'},
         {value: 'prop', description: 'Prop'},
         {value: 'actor', description: 'Actor'},
-        {value: 'location-add', description: 'Location-add'},
         {value: 'actor-add', description: 'Actor-add'},
+        {value: 'location-add', description: 'Location-add'},
         {value: 'extras', description: 'Extras'},
         {value: 'animal', description: 'Animal'}
         {value: 'delete-tag', description: 'Deleta tag'}
@@ -91,30 +91,30 @@ module.exports = {
     order: 11
 
   f6Tag:
-    title: 'F6 config'
-    description: 'Default tag and color for `F6`'
-    type: 'string'
-    default: 'location-add'
-    order: 12
-    enum: Tags
-  f6Color:
-    title: ' '
-    type: 'color'
-    default: '#0096ff'
-    order: 13
-
-  f7Tag:
     title: 'F7 config'
     description: 'Default tag and color for `F7`'
     type: 'string'
     default: 'actor-add'
     order: 14
     enum: Tags
-  f7Color:
+  f6Color:
     title: ' '
     type: 'color'
     default: '#f6f4ac'
     order: 15
+
+  f7Tag:
+    title: 'F6 config'
+    description: 'Default tag and color for `F6`'
+    type: 'string'
+    default: 'location-add'
+    order: 12
+    enum: Tags
+  f7Color:
+    title: ' '
+    type: 'color'
+    default: '#0096ff'
+    order: 13
 
   f8Tag:
     title: 'F8 config'

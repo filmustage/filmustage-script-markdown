@@ -27,8 +27,8 @@ Tag | Key | Default color
 `<time></time>` | <kbd>F3</kbd> |  <span style="color:#d936db">#d936db</span>
 `<prop></prop>` | <kbd>F4</kbd> |  <span style="color:#00a36c">#00a36c</span>
 `<actor></actor>` | <kbd>F5</kbd> |  <span style="color:#c8c817">#c8c817</span>
-`<location_add></location_add>` | <kbd>F6</kbd> |  <span style="color:#0096ff">#0096ff</span>
-`<actor_add></location>` | <kbd>F7</kbd> |  <span style="color:#f6f4ac">#f6f4ac</span>
+`<actor_add></location>` | <kbd>F6</kbd> |  <span style="color:#f6f4ac">#f6f4ac</span>
+`<location_add></location_add>` | <kbd>F7</kbd> |  <span style="color:#0096ff">#0096ff</span>
 `<extras></extras>` | <kbd>F8</kbd> |  <span style="color:#e98604">#e98604</span>
 `<animal></animal>` | <kbd>F9</kbd> |  <span style="color:#bb0da5">#bb0da5</span>
 `Delete tags around` | <kbd>ALT</kbd> + <kbd>F1</kbd> |
