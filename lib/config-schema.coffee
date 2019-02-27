@@ -48,7 +48,7 @@ module.exports = {
   f2Color:
     title: ' '
     type: 'color'
-    default: '#8544fb'
+    default: '#7b7aff'
     order: 5
 
   f3Tag:
@@ -61,7 +61,7 @@ module.exports = {
   f3Color:
     title: ' '
     type: 'color'
-    default: '#ff40ff'
+    default: '#d936db'
     order: 7
 
   f4Tag:
@@ -74,7 +74,7 @@ module.exports = {
   f4Color:
     title: ' '
     type: 'color'
-    default: '#0ea49e'
+    default: '#00a36c'
     order: 9
 
   f5Tag:
@@ -87,7 +87,7 @@ module.exports = {
   f5Color:
     title: ' '
     type: 'color'
-    default: '#dfdc17'
+    default: '#c8c817'
     order: 11
 
   f6Tag:
@@ -126,7 +126,7 @@ module.exports = {
   f8Color:
     title: ' '
     type: 'color'
-    default: '#ff9300'
+    default: '#e98604'
     order: 17
 
   f9Tag:
@@ -139,7 +139,7 @@ module.exports = {
   f9Color:
     title: ' '
     type: 'color'
-    default: '#930b81'
+    default: '#bb0da5'
     order: 19
 
   f10Tag:

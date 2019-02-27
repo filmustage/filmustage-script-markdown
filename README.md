@@ -23,14 +23,14 @@ Select text and press:
 Tag | Key | Default color
 ------- | ------ | ------
 `<place></place>` | <kbd>F1</kbd> |  <span style="color:#d23e24">#d23e24</span>
-`<location></location>` | <kbd>F2</kbd> |  <span style="color:#8544fb">#8544fb</span>
-`<time></time>` | <kbd>F3</kbd> |  <span style="color:#ff40ff">#ff40ff</span>
-`<prop></prop>` | <kbd>F4</kbd> |  <span style="color:#0ea49e">#0ea49e</span>
-`<actor></actor>` | <kbd>F5</kbd> |  <span style="color:#dfdc17">#dfdc17</span>
+`<location></location>` | <kbd>F2</kbd> |  <span style="color:#7b7aff">#7b7aff</span>
+`<time></time>` | <kbd>F3</kbd> |  <span style="color:#d936db">#d936db</span>
+`<prop></prop>` | <kbd>F4</kbd> |  <span style="color:#00a36c">#00a36c</span>
+`<actor></actor>` | <kbd>F5</kbd> |  <span style="color:#c8c817">#c8c817</span>
 `<location_add></location_add>` | <kbd>F6</kbd> |  <span style="color:#0096ff">#0096ff</span>
 `<actor_add></location>` | <kbd>F7</kbd> |  <span style="color:#f6f4ac">#f6f4ac</span>
-`<extras></extras>` | <kbd>F8</kbd> |  <span style="color:#ff9300">#ff9300</span>
-`<animal></animal>` | <kbd>F9</kbd> |  <span style="color:#930b81">#930b81</span>
+`<extras></extras>` | <kbd>F8</kbd> |  <span style="color:#e98604">#e98604</span>
+`<animal></animal>` | <kbd>F9</kbd> |  <span style="color:#bb0da5">#bb0da5</span>
 `Delete tags around` | <kbd>ALT</kbd> + <kbd>F1</kbd> |
 
 If you want to delete or change tags, `<>select text with tags</>` and press:
