@@ -1,9 +1,9 @@
 {
   "name": "filmustage-script-markdown",
-  "main": "./lib/filmustage_script_markdown",
+  "main": "./lib/filmustage-script-markdown",
   "version": "0.2.4",
   "description": "Markdown package for Filmustage project",
-  "repository": "https://github.com/filmustage/filmustage_script_markdown",
+  "repository": "https://github.com/filmustage/filmustage-script-markdown",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"

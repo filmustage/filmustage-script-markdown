@@ -6,13 +6,13 @@ Team datasets guidelines in [Notion](https://www.notion.so/filmustage/Datasets-G
 Install from the app:
 - In Atom, open Preferences (Settings on Windows).
 - Go to Install section.
-- Search for `filmustage_script_markdown` package.<br>
+- Search for `filmustage-script-markdown` package.<br>
 Once it found, click Install button to install package.
 
 Install from the site:
 
-Install `filmustage_script_markdown` from Atom package page:<br>
-[https://atom.io/packages/filmustage_script_markdown](https://atom.io/packages/filmustage_script_markdown)
+Install `filmustage-script-markdown` from Atom package page:<br>
+[https://atom.io/packages/filmustage-script-markdown](https://atom.io/packages/filmustage-script-markdown)
 
 ## 2. Use tags
 
@@ -40,15 +40,15 @@ If you want to delete or change tags, `<>select text with tags</>` and press:
 ## 3. Extra features
 
 - If you mark selected text with wrong tag, you can simple change it by pressing another hotkeys.
-- If you mark selected text with articles (a, an, the), spaces, dots, commas, etc, they automatically pushed out of tags.
-
+- If you mark selected text with articles (a, an, the), spaces, dots, commas, etc, they automatically pushed out of tags:<br>
 ![](img/samples_01.gif)
-- If you need to change multiple tags or remove they, just select text with tags and press hotkeys.
-
+- If you need to change multiple tags or remove they, just select text with tags and press hotkeys:<br>
 ![](img/samples_02.gif)
+- Auto expand selection on whole word: <br>
+![](img/samples_03.gif)
 
 ## 4. Settings
-Open `Atom Settings`, go to `Packages` in the left hand sidebar, and press `Settings` on `filmustage_script_markdown` to open the list of settings available for the Filmustage package.
+Open `Atom Settings`, go to `Packages` in the left hand sidebar, and press `Settings` on `filmustage-script-markdown` to open the list of settings available for the Filmustage package.
 
 - You can disable color tags highlights.
 - You can change default tag action for hotkey and color of highlight.
