@@ -100,7 +100,7 @@ module.exports = {
   f6Color:
     title: ' '
     type: 'color'
-    default: '#f6f4ac'
+    default: '#d7d7a4'
     order: 13
 
   f7Tag:
