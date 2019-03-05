@@ -1,4 +1,4 @@
-### v0.3.1
+### v0.3.3
 - Fix blinking tag color on scrolling.
 - Auto expand selection on whole word.
 - Renamed package from `filmustage_script_markdown` into `filmustage-script-markdown`.
