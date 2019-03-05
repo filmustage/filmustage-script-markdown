@@ -1,6 +1,6 @@
 {
   "name": "filmustage-script-markdow",
-  "main": "./lib/filmustage_script_markdown",
+  "main": "./lib/filmustage-script-markdown",
   "version": "0.2.5",
   "description": "Markdown package for Filmustage project",
   "repository": "https://github.com/filmustage/filmustage-script-markdown",
