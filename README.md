@@ -1,4 +1,7 @@
 # Filmustage script markdown
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/277c5eb1aa1f497ca2878b697d682242)](https://www.codacy.com/app/filmustage/filmustage_script_markdown?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=filmustage/filmustage_script_markdown&amp;utm_campaign=Badge_Grade)
+![APM](https://img.shields.io/apm/v/filmustage-script-markdown.svg)
+![APM](https://img.shields.io/apm/l/filmustage-script-markdown.svg)
 
 Team datasets guidelines in [Notion](https://www.notion.so/filmustage/Datasets-Guidelines-5445b5559c8948d59e30b44b531f0dc4).
 
