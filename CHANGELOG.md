@@ -1,6 +1,7 @@
 ### v0.3.4
 -   Added markdown in the beginning of the word. `#6`
 -   Fixed Bug with selection on the end of lines. `#7`, `#8`
+-   Fixed code style and errors.
 
 ### v0.3.3
 -   Fix blinking tag color on scrolling.
