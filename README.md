@@ -35,7 +35,6 @@ Select text and press:
 | `<animal></animal>`             | <kbd>F9</kbd>                  | <span style="color:#bb0da5">#bb0da5</span> |
 | `Delete tags around`            | <kbd>ALT</kbd> + <kbd>F1</kbd> | &nbsp;                                     |
 
-
 If you want to delete or change tags, `<>select text with tags</>` and press:
 -   <kbd>ALT</kbd> + <kbd>F1</kbd> for `delete tags around`
 -   Any **hotkeys** from top for `replace tags around`
