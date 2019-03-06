@@ -12,15 +12,12 @@ Swapped location-add (now F7) and actor-add (now F6).
 -   Updated defaults colors.
 
 ### v0.2.1
--   Added plugin settings:  
-you can change default tag action for hotkey and color of highlight.
+-   Added plugin settings: you can change default tag action for hotkey and color of highlight.
 -   Added JSON generation for Atom touchbar package (see in Settings section).
 -   Updated readme.
 
 ### v0.2.0
--   Replaced tags for correct highlights in Atom:  
-location_add -> location-add  
-actor_add -> actor-add
+-   Replaced tags for correct highlights in Atom: location_add -> location-add, actor_add -> actor-add  
 -   Added ability to push () outside of tags.
 -   Added different tag colors highlights.
 
