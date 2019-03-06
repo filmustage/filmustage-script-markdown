@@ -17,7 +17,7 @@ Swapped location-add (now F7) and actor-add (now F6).
 -   Updated readme.
 
 ### v0.2.0
--   Replaced tags for correct highlights in Atom: location_add -> location-add, actor_add -> actor-add  
+-   Replaced tags for correct highlights in Atom: location_add -> location-add, actor_add -> actor-add.
 -   Added ability to push () outside of tags.
 -   Added different tag colors highlights.
 
