@@ -1,7 +1,11 @@
+### v0.3.5
+
+-   Fixed tag replace on part selections. [`#9`](https://github.com/filmustage/filmustage-script-markdown/issues/9)
+
 ### v0.3.4
 
--   Added markdown in the beginning of the word. `#6`
--   Fixed Bug with selection on the end of lines. `#7`, `#8`
+-   Added markdown in the beginning of the word. [`#6`](https://github.com/filmustage/filmustage-script-markdown/issues/6)
+-   Fixed Bug with selection on the end of lines. [`#7`](https://github.com/filmustage/filmustage-script-markdown/issues/7), [`#8`](https://github.com/filmustage/filmustage-script-markdown/issues/8)
 -   Fixed code style and errors.
 
 ### v0.3.3
