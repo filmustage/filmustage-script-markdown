@@ -1,4 +1,4 @@
-### v0.3.5
+### v0.3.6
 
 -   Fixed tag replace on part selections. [`#9`](https://github.com/filmustage/filmustage-script-markdown/issues/9)
 
