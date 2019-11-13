@@ -9,6 +9,12 @@
     "f7": "filmustage:tag-f7",
     "f8": "filmustage:tag-f8",
     "f9": "filmustage:tag-f9",
-    "alt-f1": "filmustage:tag-f10"
+    "alt-f1": "filmustage:tag-f10",
+    "alt-f2": "filmustage:tag-f11",
+    "alt-f3": "filmustage:tag-f12",
+    "alt-f4": "filmustage:tag-f13",
+    "alt-f5": "filmustage:tag-f14",
+    "alt-f6": "filmustage:tag-f15",
+    "alt-f7": "filmustage:tag-f16"
   }
 }
